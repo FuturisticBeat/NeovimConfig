@@ -22,6 +22,7 @@ return {
       -- !
       "roslyn",
       "rzls",
+      "netcoredbg",
       -- "csharp-language-server",
       -- "omnisharp",
     },
